@@ -1,12 +1,12 @@
 {
-  "version": "1.0.15",
-  "versionCode": 16,
+  "version": "1.0.16",
+  "versionCode": 17,
   "package": "com.tomonana.app",
   "filename": "tomonana.apk",
-  "sizeBytes": 149750194,
-  "sha256": "553a7666e7455648537c2450955505e4ba022d010880fc95540ab21747a81ca6",
+  "sizeBytes": 156544132,
+  "sha256": "bdbf77e3c9fb663becc7fdbfb6c4507138a222d71bf3340f3c17b01de192e37e",
   "minimumAndroid": "7.0",
-  "downloadUrl": "https://github.com/kembo-dev/tomonana-downloads/releases/download/v1.0.15/tomonana.apk",
+  "downloadUrl": "https://github.com/kembo-dev/tomonana-downloads/releases/download/v1.0.16/tomonana.apk",
   "latestDownloadUrl": "https://github.com/kembo-dev/tomonana-downloads/releases/latest/download/tomonana.apk",
   "siteUrl": "https://kembo-dev.github.io/tomonana-downloads/",
   "certificateSha256": "9f911a089f2e564eaf6a828090e6688d8e57b3c3135dae1d1690900dc26d9439"
