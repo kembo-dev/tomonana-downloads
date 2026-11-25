@@ -1,0 +1,10 @@
+[hidden]{display:none!important}
+[data-apk-check]{border:1px solid var(--line);border-radius:20px;padding:20px;margin-top:24px;background:var(--surface)}
+[data-apk-check] progress{width:100%;height:16px;accent-color:var(--accent);margin:8px 0}
+[data-apk-check] button{min-height:44px;padding:8px 18px;font:inherit;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:12px;cursor:pointer;margin:8px 0}
+[data-apk-check] input{display:block;width:100%;min-height:48px;font:inherit;margin:12px 0;max-width:100%}
+[data-apk-check] input::file-selector-button{min-height:44px;font:inherit;margin-right:8px}
+[data-apk-check] button:focus-visible,[data-apk-check] input:focus-visible{outline:3px solid var(--accent);outline-offset:4px}
+[data-apk-check] [role=status]{overflow-wrap:anywhere}
+[data-apk-check][data-state=error] [role=status]{font-weight:650}
+[aria-disabled=true]{opacity:.7;cursor:wait}
